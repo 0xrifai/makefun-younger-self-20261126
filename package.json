@@ -1,0 +1,1 @@
+{"description":"One line to my younger self — make.fun entry","engines":{"node":">=22.18"},"license":"MIT","name":"makefun-younger-self-20261126","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
